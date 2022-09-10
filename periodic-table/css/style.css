@@ -3,7 +3,7 @@ body, html{
   height: 100%;
 }
 body {
-  background-image: url(../wp.png);
+  /**background-image: url(../wp.png);**/
   text-shadow: 0 0 0.4vw currentColor;
   overflow: hidden;
   display: flex;
